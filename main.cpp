@@ -1,3 +1,5 @@
+//the order of take ros is not optimized!!!
+
 #include <iostream>
 #include <vector>
 #include <map>
